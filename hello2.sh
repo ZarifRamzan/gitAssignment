@@ -1,2 +1,2 @@
 #!/bin/bash
-echo hello "github-jenkins automation !!!"
+echo "github-jenkins automation !!!"
